@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "software to generate a readme",
+  "main": "readmegen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaaaax/readme-generator.git"
+  },
+  "author": "Edwin Genova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novaaaax/readme-generator/issues"
+  },
+  "homepage": "https://github.com/novaaaax/readme-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4",
+    "util": "^0.12.2"
+  }
+}

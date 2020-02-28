@@ -5,6 +5,7 @@ This software was created so that the user can create a readme file by simply an
 
 ### Usage:
 Use this software if you are looking to generate consistent and well put together readme's to show on your GitHub profile. 
+![video](screencapture.mov)
 
 ### Technology Used/Badges: 
 ![img](https://img.shields.io/badge/node.js-tech-red)

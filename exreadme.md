@@ -11,13 +11,13 @@ its cool
 ## How To Install: 
 none
 ## Usage:
-node.js
+many
 ## Technologies Used/Bagdes: 
-![img](https://img.shields.io/badge/node.js-used-red)
+![img](https://img.shields.io/badge/java-used-red)
 ## Lisence:  
 MIT
 ## Contributors:
-just me
+me
 ## Tests:
 none
 ## GitHub: 
